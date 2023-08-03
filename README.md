@@ -5,3 +5,5 @@ As a type-1 diabetic with smart glucose tracking services it is ridiculous that 
 
 Currently in Testing on a Galaxy Watch 4, 5 & Diesel Watch. The goal is to add a complication to WearOS that can intervally update with the Raw sensor
 Data as opposed to the Dexcom Share Data. It's possible on a Garmin Watch and an Apple Watch with existing Dexcom API, so This is definitely possible!
+
+https://developer.dexcom.com/docs/
